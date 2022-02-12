@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AJthree
+- 👋 Hi, I’m @AJthree. I'm new to the world of coding. 
 - 👀 I’m interested in Data Analysis, Internet of Things (IOT),  AI, Cognitive Technology, and Touch Commerce
 - 🌱 I’m currently learning software development. 
 - 💞️ I’m not currently looking to collaborate on any projects at the moment.
